@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': '7oLa62wq',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'GfX9qepJ',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -20,7 +20,7 @@ global.available = true //status online (online)
 // Other
 global.botname = "XziroID" //namabot kalian
 global.ownername= "XziroID" //nama kalian
-global.myweb ="myblogxyz.netlify.com" //bebas asal jan hapus
+global.myweb ="gemes.vercel.app" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCCyEu6Ui3JmTON1P8BQydsA" //bebas asal jan hapus
 global.github = "https://github.com/VERDIBOTZ1" //bebas
 global.email = "rysspro62@gmail.com" //bebas
